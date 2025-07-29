@@ -1,0 +1,6 @@
+@media screen and (min-width: 1024px) {
+   header, main {
+        margin-left: 0; /* Remover o deslocamento */
+        padding-left: 20px; /* Adicionar um pequeno padding se necessário */
+    }
+}
